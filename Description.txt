@@ -1,0 +1,4 @@
+This game is suitable for everyone.It's a good way to improve someone's memory . The game is a 3d maze where the player 
+must find the right path to win the level. you'll find coins which can help you increase the score and a Key to unlock the maze . 
+You'll start with 3lives that will decrease as soon as zombie hunt you.Zombies are capable of seeing you so You must keep away to save your 
+life
